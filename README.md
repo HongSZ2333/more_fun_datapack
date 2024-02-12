@@ -17,4 +17,5 @@ Minecraft 1.17及以上
 
 ![输入图片说明](usetotem.png)
 ![输入图片说明](use%E4%B8%8B%E7%95%8C%E4%B9%8B%E6%98%9F.png)
+![输入图片说明](%E4%B8%8B%E7%95%8C%E4%B9%8B%E6%98%9F.png)
 
